@@ -4,6 +4,7 @@ Small project to introduce myself to working with Raspberry Pi.
 This project is using Python 3.7
 
 ****Needed Libraries*****
+
 Pyrebase-> an API for Python to work with Firebase.
 
 '''pip3 install pyrebase4'''
