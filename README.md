@@ -1,4 +1,4 @@
-# footTraffic
+#footTraffic
 Small project to introduce myself to working with Raspberry Pi.
 
 This project is using Python 3.7
@@ -14,7 +14,7 @@ If the use of a database is not required, results may be recorded locally to an 
 
 **************************
 
-Usage: ```python3 footTraffic.py "H(our) or M(inute) or S(econd)" duration(float)'''
+Usage: >python3 footTraffic.py "H(our) or M(inute) or S(econd)" duration(float)
 
 
 
